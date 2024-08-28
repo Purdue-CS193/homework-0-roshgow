@@ -6,6 +6,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 This line is here to test that editing this page works.
 
+# Rohan's First CS193 Homework
+
+My Favorite Things about CS193:
+
+- Icebreakers
+- Magic Words
+- TAs
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
